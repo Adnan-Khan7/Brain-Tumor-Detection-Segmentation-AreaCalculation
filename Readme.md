@@ -23,4 +23,4 @@ Cerebrum Tumor is a deadly illness which can't be unquestionably identified with
 
 ### Methodology
 
-![alt text](https://github.com/[Adnan-Khan7]/[Brain-Tumor-Detection-Segmentation-AreaCalculation]/blob/[branch]/Capture.PNG?raw=true)
+![alt text](https://github.com/[Adnan-Khan7]/[Brain-Tumor-Detection-Segmentation-AreaCalculation]/blob/[master]/Capture.PNG?raw=true)
