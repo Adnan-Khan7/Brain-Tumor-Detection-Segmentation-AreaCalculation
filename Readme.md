@@ -23,4 +23,10 @@ Cerebrum Tumor is a deadly illness which can't be unquestionably identified with
 
 ### Methodology
 
-![alt text](https://github.com/[Adnan-Khan7]/[Brain-Tumor-Detection-Segmentation-AreaCalculation]/blob/[master]/Capture.PNG?raw=true)
+> Taking an MRI Image as input
+> Thresholding the image using  Basic Global algorithm & Otsu’s Method
+> Processing image  properties in detail using  regionprops and Morphological Operation
+> Confirmation of tumor based on density and area
+> If no Tumor end processing
+> Else segmentation of tumor in the image by particular border and calculate area
+
